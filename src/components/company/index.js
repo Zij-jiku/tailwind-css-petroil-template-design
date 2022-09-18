@@ -2,7 +2,7 @@ import React from 'react'
 
 function Company() {
   return (
-    <section>
+    <section className='py-28 bg-[#F0F0F0]'>
         <div className='max-w-container mx-auto'>
             <div className='flex'>
                 <div className='w-2/5 bg-primary'>

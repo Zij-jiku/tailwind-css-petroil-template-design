@@ -2,7 +2,7 @@ import React from 'react'
 
 function Service() {
   return (
-    <section className='mt-7'>
+    <section className='pt-7 bg-[#F0F0F0]'>
         <div className='flex flex-wrap'>
           <div className='w-2/4 flex flex-col justify-center items-end'>
             <h2 className='font-poppins font-bold text-[64px] mr-36'>Our Services</h2>

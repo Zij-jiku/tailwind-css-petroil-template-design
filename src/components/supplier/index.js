@@ -2,7 +2,7 @@ import React from 'react'
 
 function Supplier() {
     return (
-        <section className='mt-[78px]'>
+        <section className='pt-[78px] bg-[#F0F0F0]'>
             <div className='max-w-container mx-auto'>
                 <div className='flex justify-between'>
                     <div className='max-w-[289px]'>
@@ -13,7 +13,7 @@ function Supplier() {
                     </div>
                 </div>
             </div>
-            <div className='flex justify-between mt-[100px]'>
+            <div className='flex justify-between pt-[100px]'>
                 <div>
                     <picture>
                         <img src='images/supplier1.png' loading='lazy'/>
